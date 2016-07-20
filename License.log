@@ -1,0 +1,114 @@
+    ======  ======
+    Time:07/19/2016 5:01:17 PM
+    Title: Initiate log
+    Message: 
+    Time:07/19/2016 5:01:17 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:07/19/2016 5:01:17 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:07/19/2016 5:01:17 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:07/19/2016 5:01:17 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:07/19/2016 5:01:17 PM
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Uncategorized: BugTrackersLoader.LoadSystems() : ------- Function Start -------
+    Uncategorized: Orchestrator._iUIProject_ProjectOpened() : Project 'TestClearBrowserCache' Opened.
+    Uncategorized: Orchestrator.set_SelectedProject() : Active Project is : 'TestClearBrowserCache'
+    TestStudio: <>c__DisplayClass34_0.<LoadInternal>b__2() : Extract and merge elements time: 00:00:00.0856279
+    TestStudio: <>c__DisplayClass34_0.<LoadInternal>b__2() : Total Elements count: 4
+    TestStudio: ElementsExplorerViewModel.SyncNodes() : Added 6 visual elements in the Elements Explorer tree.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'Login' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'TestClearCache' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: <>c__DisplayClass7_1.<Refresh>b__0() : Enumerating test list files in "D:\work files\temp\TestClearBrowserCache\TestClearBrowserCache\TestLists"...
+    Uncategorized: <>c__DisplayClass7_1.<Refresh>b__0() : 0 test lists found.
+    Uncategorized: <>c__DisplayClass7_1.<Refresh>b__4() : All files parsed and 0 viewmodels added.
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function Start -------
+    ProjectModel: StandaloneHost.EditControlledFiles() : Project is offline or uncontrolled; making files writeable
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function End -------
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function Start -------
+    ProjectModel: StandaloneHost.EditControlledFiles() : Project is offline or uncontrolled; making files writeable
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function End -------
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function Start -------
+    ProjectModel: StandaloneHost.EditControlledFiles() : Project is offline or uncontrolled; making files writeable
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function End -------
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function Start -------
+    ProjectModel: StandaloneHost.EditControlledFiles() : Project is offline or uncontrolled; making files writeable
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function End -------
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\vs\Servicing\11.0\ultimate
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\vs\Servicing\11.0\premium
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\vs\Servicing\11.0\professional
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\vs\Servicing\12.0\ultimate
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\vs\Servicing\12.0\premium
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\vs\Servicing\12.0\professional
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\vs\Servicing\14.0\enterprise
+    Error: PerformanceMainViewModel.EnumProfilesAsync() : Folder "" doesn't exist.
+    Performance: PerformanceMainViewModel.set_ActiveProfile() : Overwriting ActiveProfile viewmodel...
+    Performance: PerformanceMainViewModel.set_ActiveProfile() : ActiveProfile viewmodel replaced.
+    TestStudio: Test.LoadProfilerConfiguration() : Profiler configuration not found; attempting to convert from V1 configuration streams...
+    TestStudio: Test.LoadProfilerConfiguration() : Profiler configuration converted from V1 to "D:\work files\temp\TestClearBrowserCache\TestClearBrowserCache\Profiler Configurations\{06068092-919b-44f1-b2aa-a638cfbd40b8}.tsprofconfig".
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function Start -------
+    ProjectModel: StandaloneHost.EditControlledFiles() : Project is offline or uncontrolled; making files writeable
+    ProjectModel: StandaloneHost.EditControlledFiles() : ------- Function End -------
+    Error: App.LogUnhandledException() : EXCEPTION! (see below)
+     Situation: Unhandled exception!
+     Outer Exception Type: System.InvalidOperationException
+     Message: Cannot set Visibility to Visible or call Show, ShowDialog, Close, or WindowInteropHelper.EnsureHandle while a Window is closing.
+     HRESULT: 0x80131509 (Official ID (if app.) = COR_E_INVALIDOPERATION, Error Bit = FAILED, Facility = FACILITY_URT, Code = 5385)
+     Call Stack:
+          at System.Windows.Window.VerifyNotClosing()
+          at System.Windows.Window.InternalClose(Boolean shutdown, Boolean ignoreCancel)
+          at System.Windows.Application.DoShutdown()
+          at System.Windows.Application.ShutdownImpl()
+          at System.Windows.Application.ShutdownCallback(Object arg)
+          at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+          at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
