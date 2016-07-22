@@ -179,20 +179,8 @@
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "eff97e8c-dfd1-4975-98b5-b1d7ecdb68e2",
-    "SourceControlRepository": {
-      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
-      "__value": {
-        "RemotePath": "https://github.com/ivaylotodorov/a.git",
-        "ServerInfo": {
-          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
-          "__value": {
-            "ServerName": "https://github.com/ivaylotodorov/a.git"
-          }
-        },
-        "ServerType": 2
-      }
-    },
-    "IsOnline": true,
+    "SourceControlRepository": null,
+    "IsOnline": false,
     "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",
