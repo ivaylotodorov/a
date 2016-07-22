@@ -192,7 +192,7 @@
         "ServerType": 2
       }
     },
-    "IsOnline": true,
+    "IsOnline": false,
     "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",
