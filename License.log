@@ -1,0 +1,108 @@
+    ======  ======
+    Time:07/21/2016 4:50:10 PM
+    Title: Initiate log
+    Message: 
+    Time:07/21/2016 4:50:10 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:07/21/2016 4:50:10 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:07/21/2016 4:50:10 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:07/21/2016 4:50:10 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:07/21/2016 4:50:10 PM
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Uncategorized: BugTrackersLoader.LoadSystems() : ------- Function Start -------
+    Uncategorized: Orchestrator._iUIProject_ProjectOpened() : Project 'InvokeAllEvents' Opened.
+    Uncategorized: Orchestrator.set_SelectedProject() : Active Project is : 'InvokeAllEvents'
+    Error: CodeService.CreateLanguageDataHelper() : EXCEPTION! (see below)
+     Situation: Error loading Assembly cache
+     Outer Exception Type: System.NullReferenceException
+     Message: Object reference not set to an instance of an object.
+     HRESULT: 0x80004003 (Official ID (if app.) = E_POINTER, Error Bit = FAILED, Facility = FACILITY_NULL, Code = 16387)
+     Call Stack:
+          at ArtOfTest.WebAii.Design.CodeGeneration.CodeService.CreateLanguageDataHelper(Object sender, DoWorkEventArgs e)
+
+    TestStudio: <>c__DisplayClass34_0.<LoadInternal>b__2() : Extract and merge elements time: 00:00:00.1088708
+    TestStudio: <>c__DisplayClass34_0.<LoadInternal>b__2() : Total Elements count: 17
+    TestStudio: ElementsExplorerViewModel.SyncNodes() : Added 3 visual elements in the Elements Explorer tree.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 47.0.0.1 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 47.0.0.1 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 47.0.0.1 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 47.0.0.1 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'WebTest' selected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_-982802745" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    TestStudio: <>c__DisplayClass1_0.<TrackProject>b__3() : EQAT json steps read time: 00:00:00.0156100
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
+    UIAutomation: AutomationExtensions.AddAutomationEventHandler() : Added a(n) WindowPatternIdentifiers.WindowOpenedProperty handler on element System.Windows.Automation.AutomationElement scope Descendants.
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_-723393567" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
+    UIAutomation: AutomationExtensions.AddAutomationEventHandler() : Added a(n) WindowPatternIdentifiers.WindowOpenedProperty handler on element System.Windows.Automation.AutomationElement scope Descendants.
