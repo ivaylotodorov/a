@@ -182,17 +182,17 @@
     "SourceControlRepository": {
       "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
-        "RemotePath": "https://github.com/ivaylotodorov/a.git",
+        "RemotePath": "https://github.com/ivaylotodorov/aa.git",
         "ServerInfo": {
           "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
           "__value": {
-            "ServerName": "https://github.com/ivaylotodorov/a.git"
+            "ServerName": "https://github.com/ivaylotodorov/aa.git"
           }
         },
         "ServerType": 2
       }
     },
-    "IsOnline": false,
+    "IsOnline": true,
     "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",
